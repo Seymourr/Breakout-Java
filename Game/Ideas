@@ -1,0 +1,24 @@
+
+
+Klasser
+	Game
+		Master-klass
+		
+		L�ser user input
+	Levels
+		H�ller info f�r alla banor
+		L�sa fr�n fil?
+	
+	Playfield
+		Ritar allt. GUI
+	Physics
+		H�ller koll p� kollisioner, studsar osv
+	Ball
+		St�llbar hastighet
+	Pad
+		St�llbar storlek
+		Kunna f�sta och sl�ppa iv�g bollen (powerup)
+	Bricks
+		Olika antal tr�ffar kvar
+	Powerups
+		Positiva/negativa
